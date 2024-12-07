@@ -21,6 +21,10 @@ body {
     font-size: 0;
 }
 
+.uppercase {
+    text-transform: uppercase;
+}
+
 .logo {
     display: inline-block;
     vertical-align: middle;
