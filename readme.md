@@ -1,0 +1,1 @@
+### [Макет Figma](https://www.figma.com/file/F5VSFhkbFequGLIqOz5nX2/css-pseudo-practice?node-id=0%3A1)
